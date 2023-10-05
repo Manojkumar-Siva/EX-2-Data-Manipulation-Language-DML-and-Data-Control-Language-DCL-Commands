@@ -155,4 +155,4 @@ SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY desig
 ![Alt text](image-13.png)
 
 ## Result:
-To create a manager database and execute DML queries using SQL is executed successfully.
+Thus, to create a manager database and execute DML queries using SQL is executed successfully.

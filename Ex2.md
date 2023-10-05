@@ -155,4 +155,4 @@ SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY desig
 ![Alt text](image-13.png)
 
 ## Result:
-Thus, a manager database to execute DML queries using SQL is executed successfully.
+Thus,a manager database to execute DML queries using SQL is executed successfully.
